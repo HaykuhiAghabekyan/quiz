@@ -1,0 +1,16 @@
+[0712/150319.061:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0712/150319.061:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0712/150319.055:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0712/150320.162:ERROR:exception_snapshot_win.cc(98)] thread ID 6728 not found in process
+[0712/150320.162:ERROR:exception_snapshot_win.cc(98)] thread ID 8104 not found in process
+[0712/150320.162:ERROR:exception_snapshot_win.cc(98)] thread ID 12564 not found in process
+[0717/175905.226:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0717/183751.344:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0717/191134.234:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0717/234949.356:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0718/004714.819:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0718/154445.204:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0718/222805.672:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0719/104038.841:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0721/222157.014:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0722/183649.199:ERROR:crash_report_database_win.cc(428)] unexpected header

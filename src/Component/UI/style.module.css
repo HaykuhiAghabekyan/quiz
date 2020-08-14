@@ -1,0 +1,18 @@
+.menuToggle{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  clip: auto;
+  transition:.5s;
+  -webkit-transition:.5s;
+  -moz-transition:.5s;
+  -ms-transition:.5s;
+  -o-transition:.5s;
+}
+
+.iconOpen{
+  left: 26%;
+}
+.iconClose{
+  left: 30px;
+}

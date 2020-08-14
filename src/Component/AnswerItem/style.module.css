@@ -1,0 +1,6 @@
+.success{
+  background: rgb(23, 168, 42);
+}
+.error{
+  background: rgba(184, 20, 8, 0.801);
+}

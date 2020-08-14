@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.layout{
+  background: linear-gradient(rgb(31, 127, 206),rgb(52, 187, 228));
+  height: 100vh;
+  color: rgb(195, 233, 243)
+}
+
+main{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
